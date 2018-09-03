@@ -5,27 +5,22 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### To start a development server:
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+If you use [Yarn](https://yarnpkg.com/en/) (strongly recommended):
 
-### Lints and fixes files
-```
-yarn run lint
-```
+`yarn serve:electron`
 
-### Run your unit tests
-```
-yarn run test:unit
-```
+or if you use NPM:
 
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
+`npm run serve:electron`
+
+### To build your app:
+
+With Yarn:
+
+`yarn build:electron`
+
+or with NPM:
+
+`npm run build:electron`
