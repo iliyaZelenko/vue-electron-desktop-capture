@@ -14,7 +14,6 @@
         :class="{source: true, 'source--active': source === selectedSource}"
         @click="selectSource(source)"
       >
-        <!--<h3>{{ source.text }}</h3>-->
         <img
           :src="source.img"
           class="source__img"
@@ -91,7 +90,6 @@ export default {
         if (this.desktopSharing) {
           this.toggleDisplay() // off
         }
-        // this.toggleDisplay() // on
       }
     },
     onAccessApproved (desktopId) {

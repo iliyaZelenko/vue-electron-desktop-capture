@@ -16,20 +16,6 @@ export default {
   name: 'Home',
   components: {
     HelloWorld
-  },
-  mounted () {
-    // function errorCallback (e) {
-    //   console.log('Error', e)
-    // }
-
-    // камера
-    // navigator.getUserMedia({ video: true, audio: true }, (localMediaStream) => {
-    //   var video = document.querySelector('video')
-    //   video.src = window.URL.createObjectURL(localMediaStream)
-    //   video.onloadedmetadata = (e) => {
-    //     // Ready to go. Do some stuff.
-    //   }
-    // }, errorCallback)
   }
 }
 </script>

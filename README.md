@@ -1,4 +1,7 @@
-# vue-electron-builder
+# Desktop Capture
+
+![My image](https://i.imgur.com/FXDyphH.png)
+![My image](https://i.imgur.com/OjZj2tK.png)
 
 ## Project setup
 ```
