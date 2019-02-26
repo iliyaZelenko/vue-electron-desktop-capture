@@ -1,5 +1,7 @@
 # Desktop Capture
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iliyaZelenko/vue-electron-desktop-capture.svg)](https://greenkeeper.io/)
+
 ![My image](https://i.imgur.com/FXDyphH.png)
 ![My image](https://i.imgur.com/OjZj2tK.png)
 
